@@ -1,0 +1,34 @@
+{
+    "socialMedias": [
+        {
+            "alt": "mail",
+            "image": "/images/socialMedia/mail.svg",
+            "link": "mailto:hm2100mh@gmail.com"
+        },
+        {
+            "alt": "googleScholar",
+            "image": "/images/socialMedia/googleScholar.svg",
+            "link": "https://scholar.google.com/citations?user=oesQCGUAAAAJ&hl=en"
+        },
+        {
+            "alt": "X",
+            "image": "/images/socialMedia/X.svg",
+            "link": "https://x.com/"
+        },
+        {
+            "alt": "LinkedIn",
+            "image": "/images/socialMedia/linkedin.svg",
+            "link": "https://www.linkedin.com/in/mohsen-hami"
+        },
+        {
+            "alt": "github",
+            "image": "/images/socialMedia/github.svg",
+            "link": "https://github.com/mhmi1"
+        },
+        {
+            "alt": "cv",
+            "image": "/images/socialMedia/cv.svg",
+            "link": "/CV/final-Mohsen Hami - CV - 2025 -v2.pdf"
+        }
+    ]
+}

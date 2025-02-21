@@ -1,0 +1,70 @@
+{
+  "publications": [
+      {
+          "title": "Assessing The Impact of CNN Auto Encoder-Based Image Denoising on Image Classification Tasks",
+          "journal": "13th International Conference on Innovative Technologies in Science, Engineering, and Technology",
+          "year": "2024",
+          "authors": [
+              {
+                  "name": "M. Hami",
+                  "link": "https://scholar.google.com/citations?user=5YX31NgAAAAJ&hl=en",
+                  "co": true
+              },
+              {
+                  "name": "M. Jamebozorg",
+                  "link": "https://www.researchgate.net/profile/Mohammad-Jamebozorg",
+                  "co": false
+              }
+          ],
+          "image": "/images/papers/image-denoising-paper-result.gif",
+          "url": "https://arxiv.org/abs/2405.13256v1",
+          "bibtex": {
+              "data": {
+                  "@article": "HAMI2024",
+                  "title": "Assessing The Impact of CNN Auto Encoder-Based Image Denoising on Image Classification Tasks",
+                  "Journal": "13th International Conference on Innovative Technologies in Science, Engineering, and Technology",
+                  "year": "2024",
+                  "url": "https://arxiv.org/abs/2405.13256v1",
+                  "author": "Mohsen Hami and Mohammad Jamebozorg"
+              }
+          },
+          "pdf": "https://arxiv.org/abs/2405.13256v1",
+          "code": "https://github.com/MHMI1/Image_Denoising_Classification"
+      },
+      {
+          "title": "Traffic Control Using Intelligent Timing of Traffic Lights with Reinforcement Learning Technique and Real-Time Processing of Surveillance Camera Images",
+          "journal": "6th International Conference on Traffic Management and Safety",
+          "year": "2024",
+          "authors": [
+              {
+                  "name": "M. Jamebozorg",
+                  "link": "https://www.researchgate.net/profile/Mohammad-Jamebozorg",
+                  "co": false
+              },
+              {
+                  "name": "M. Hami",
+                  "link": "https://scholar.google.com/citations?user=5YX31NgAAAAJ&hl=en",
+                  "co": true
+              },
+              {
+                  "name": "S. Deh Deh Jani",
+                  "link": "",
+                  "co": false
+              }
+          ],
+          "image": "/images/papers/DeepRl-YOLO-v9-model-paper.jpg",
+          "url": "https://arxiv.org/abs/2404.10664v2",
+          "bibtex": {
+              "data": {
+                  "@article": "JAMEBOZORG2024",
+                  "title": "Traffic Control Using Intelligent Timing of Traffic Lights with Reinforcement Learning Technique and Real-Time Processing of Surveillance Camera Images",
+                  "Journal": "6th International Conference on Traffic Management and Safety",
+                  "year": "2024",
+                  "url": "https://arxiv.org/abs/2404.10664v2",
+                  "author": "Mohammad Jamebozorg and Mohsen Hami and S. Deh Deh Jani"
+              }
+          },
+          "pdf": "https://arxiv.org/abs/2404.10664v2"
+      }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+    "researchs": [
+        {
+            "title": "Computer Vision",
+            "text": "Image denoising, segmentation, object detection, and multimodal learning."
+        },
+        {
+            "title": "Machine Learning & Deep Learning",
+            "text": "Autoencoders, diffusion models, reinforcement learning, and transformer-based architectures."
+        },
+        {
+            "title": "Speech Processing",
+            "text": "Automatic Speech Recognition (ASR), speech denoising, and multimodal speech-text understanding."
+        },
+        {
+            "title": "Natural Language Processing (NLP)",
+            "text": "LLM fine-tuning, sentiment analysis, text classification, and retrieval-augmented generation (RAG)."
+        },
+        {
+            "title": "Medical AI",
+            "text": "Deep learning for medical image processing, classification, and segmentation in healthcare applications."
+        }
+    ]
+}

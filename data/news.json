@@ -1,0 +1,41 @@
+{
+    "news": [
+        {
+            "date": "February 2025",
+            "text": [
+                "Our project won ",
+                {
+                    "word": "2nd Place ",
+                    "url": "https://www.elitefoundation.ir/"
+                },
+                "in the 'Designing and Building a Rescue Robot with the Ability to Identify the Injured' challenge organized by the Iranian National Elite Foundation! 🏆"
+            ]
+        },
+        {
+            "date": "December 2024",
+            "text": [
+                "Awarded the ",
+                {
+                    "word": "International Excellence Award (£10,000) ",
+                    "url": "https://www.gla.ac.uk/scholarships/internationalexcellenceaward/"
+                },
+                "for my Master's in Computing Science at the University of Glasgow! 🎓"
+            ]
+        },
+        {
+            "date": "September 2024",
+            "text": [
+                "Admitted to the ",
+                {
+                    "word": "M.Sc. in Artificial Intelligence",
+                    "url": "https://aut.ac.ir/en"
+                },
+                "at AmirKabir University of Technology through the gifted talent (without exam) program! 🎉"
+            ]
+        },
+        {
+            "date": "March 2024",
+            "text": ["Graduated from Bu-Ali Sina University with a Bachelor's in Computer Engineering! 🎓"]
+        }
+    ]
+}

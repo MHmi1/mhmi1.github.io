@@ -1,0 +1,21 @@
+{
+    "academics": [
+        {
+            "year": 2024,
+            "conferences": [
+                {
+                    "name": "13th International Conference on Innovative Technologies in Science, Engineering, and Technology",
+                    "papers": 1,
+                    "title": "Assessing The Impact of CNN Auto Encoder-Based Image Denoising on Image Classification Tasks",
+                    "url": "https://arxiv.org/abs/2405.13256v1"
+                },
+                {
+                    "name": "6th International Conference on Traffic Management and Safety",
+                    "papers": 1,
+                    "title": "Traffic Control Using Intelligent Timing of Traffic Lights with Reinforcement Learning Technique and Real-Time Processing of Surveillance Camera Images",
+                    "url": "https://arxiv.org/abs/2404.10664v2"
+                }
+            ]
+        }
+    ]
+}

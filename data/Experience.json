@@ -1,0 +1,69 @@
+{
+    "experience": [
+        {
+            "position": "Research Assistant",
+            "laboratory": "Robot Intelligence & Vision Laboratory (RIV Lab)",
+            "url": "https://rivlab.github.io/",
+            "logo": "/images/experience/robot.svg",
+            "type": "Part-time",
+            "date": "Sep 2023 - March 2024",
+            "information": [
+                "Worked on deep learning and computer vision projects related to Bachelor's thesis.",
+                "Developed models for multiple sclerosis lesion segmentation in brain MRI images.",
+                "Under the supervision of Prof. Hassan Khotanlou."
+            ]
+        },
+        {
+            "position": "Machine Learning Engineer",
+            "company": "Nama Pardaz Payam",
+            "url": "https://namapardaz.com/about-us",
+            "logo": "/images/experience/NPPCO.webp",
+            "type": "Remote, Contract",
+            "date": "April 2023 - Sep 2024",
+            "information": [
+                "Designed end-to-end medical image processing pipelines for classification and segmentation.",
+                "Worked with imbalanced and noisy datasets for robust model development.",
+                "Developed OCR, object detection, and tracking systems."
+            ]
+        },
+        {
+            "position": "Machine Learning Engineer",
+            "company": "Shatel Company",
+            "url": "https://www.shatel.ir/",
+            "logo": "/images/experience/shatel.png",
+            "type": "Full-time",
+            "date": "Sep 2024 - Present",
+            "information": [
+                "Designing and deploying end-to-end multi-modal models, including Speech-to-Text pipelines.",
+                "Developing AI-powered solutions for telecom data processing.",
+                "Optimizing machine learning models for large-scale applications."
+            ]
+        },
+        {
+            "position": "Teaching Assistant",
+            "institution": "AmirKabir University of Technology",
+            "url": "https://aut.ac.ir/en",
+            "logo": "/images/experience/aut.png",
+            "type": "Part-time",
+            "date": "Sep 2024 - Jan 2025",
+            "information": [
+                "Instructor for 'Computer Fundamentals and Programming Workshop (C Language)'.",
+                "Designed coursework and guided students in hands-on programming exercises.",
+                "Assisted in grading and evaluating assignments."
+            ]
+        },
+        {
+            "position": "Teaching Assistant",
+            "institution": "Bu-Ali Sina University",
+            "url": "https://basu.ac.ir/en",
+            "logo": "/images/experience/basu-logo.jpg",
+            "type": "Part-time",
+            "date": "Sep 2021 - March 2024",
+            "information": [
+                "Assisted in multiple courses including 'Artificial Intelligence & Expert Systems', 'Operating Systems', and 'Data Structures'.",
+                "Conducted tutorials, reviewed assignments, and provided guidance to students.",
+                "Collaborated with professors to improve course content and learning resources."
+            ]
+        }
+    ]
+}

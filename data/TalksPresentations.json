@@ -1,0 +1,28 @@
+{ 
+  "TalksPresentations": [
+    {
+        "title": "LLM-based ASR models ",
+        "year": "natural language understanding course - Winter 2025",
+        "journal": "AmirKabir University of technology",
+        "image": "/images/TalksPresentations/LLM-based-ASR.png",
+        "slides": "",
+        "url": "https://docs.google.com/presentation/d/12dE-NPQrbSP3HWX4ZCn9faZEb33KvNBA/edit?usp=sharing&ouid=115245349454451272867&rtpof=true&sd=true"
+      },
+    {
+      "title": "Bias and Variance tradeoff in data mining",
+      "year": "data mining course - Winter 2024",
+      "journal": "Bu-Ali Sina University",
+      "image": "/images/TalksPresentations/Bias-var-tradeoff.png",
+      "slides": "",
+      "url": "https://docs.google.com/presentation/d/18-Onr9y3_8T9Js_vAEq67D9Gzupj-gHR/edit?usp=sharing&ouid=115245349454451272867&rtpof=true&sd=true"
+    },
+    {
+      "title": "Assessing The Impact of CNN Auto Encoder-Based Image Denoising on Image Classification Tasks",
+      "year": "Paper presentation - Spring 2024",
+      "journal": "13th International conference on innovative technologies in the field of science, engineering and technology",
+      "image": "/images/papers/image-denoising-paper-result.gif",
+      "slides": "",
+      "url": "https://arxiv.org/abs/2404.10664"
+    }
+  ]
+}
